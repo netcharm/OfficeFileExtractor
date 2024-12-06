@@ -2,7 +2,7 @@
   "profiles": {
     "OfficeFileExtractor": {
       "commandName": "Project",
-      "commandLineArgs": "\"D:\\Downloads\\_firefox\\Doc1.doc\"",
+      "commandLineArgs": "\"D:\\Downloads\\_firefox\\测试内容\\Doc1.doc\"",
       "nativeDebugging": true
     }
   }
